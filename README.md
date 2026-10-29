@@ -25,7 +25,7 @@ UGC অ্যাড, প্রোডাক্ট ভিডিও বা রি�
 **যা করে**
 - ভিডিওর কথা শুনে সাবটাইটেল (.srt) বানায়, প্রতিটা শব্দের সময়ের সাথে মিলিয়ে — ২ লাইন × ২৮ অক্ষর (9:16), ২ × ৪৩ (16:9) বা নিজের মাপে
 - স্ক্রিপ্টের (.docx / .txt) সাথে মিলিয়ে দেখে: কোথায় বক্তা অন্য শব্দ বলেছেন, কী বাদ দিয়েছেন, কী যোগ করেছেন — রিপোর্ট (.txt + .docx) ক্লায়েন্টকে পাঠানো যায়
-- স্ক্রিপ্টের বানান আর যতিচিহ্ন রাখে, যেখানে বক্তা স্ক্রিপ্ট মেনেছেন
+- সাবটাইটেলে স্ক্রিপ্টের লেখাই থাকে (বানান, যতিচিহ্নসহ); বক্তা যেখানে স্ক্রিপ্ট থেকে সরে গেছেন, তার তালিকা দেয় — সময় আর সাবটাইটেল নম্বরসহ, শুনে নিজে ঠিক করার জন্য। চাইলে বলা কথাও দেখানো যায়
 - এক ক্লিকে সব ভার্সন এক্সপোর্ট, সাবটাইটেল বসানো: 9:16, 16:9 (ঝাপসা ব্যাকগ্রাউন্ডে), 1:1, 4:5, ছোট কাট (যেমন ৪৩ সেকেন্ডের মধ্যে, পুরো বাক্যে শেষ), সাইজ লিমিট (যেমন ১৩ MB-র নিচে)
 - ছোট কাট কাটে বাক্যের শেষে, কথার বিরতিতে — কোনো শব্দ কাটা পড়ে না
 - প্রতিটা ফাইল মেপে দেখে: সাইজ, দৈর্ঘ্য, রেজোলিউশন, বিটরেট — চেক রিপোর্ট সেভ করে
@@ -57,7 +57,7 @@ You subtitle UGC ads, product videos or reels. The client sends a script, you ma
 **What it does**
 - Makes subtitles (.srt) from the speech, timed to every word — 2 lines × 28 characters (9:16), 2 × 43 (16:9) or your own size
 - Checks the video against the script (.docx / .txt): words the speaker changed, skipped or added — a report (.txt + .docx) you can send to the client
-- Keeps the script's spelling and punctuation wherever the speaker followed it
+- The subtitles follow the script (its words, spelling and punctuation) and every place the speaker went off script is listed with its time and subtitle number, for you to listen to and fix. Or show what was said instead
 - Exports every version in one click, subtitles burned in: 9:16, 16:9 (over a blurred background), 1:1, 4:5, short cuts (e.g. under 43 seconds, ending on a full sentence), size limits (e.g. under 13 MB)
 - Cuts short versions at the end of a sentence, in the pause after the last word — no clipped words
 - Measures every file it makes: size, length, resolution, bitrates — and saves a check report
